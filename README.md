@@ -1,7 +1,7 @@
 # React Login With Redux
 
 ```
-To install dependecies, run:
+To install dependencies, run:
 npm install || yarn install
 ```
 
